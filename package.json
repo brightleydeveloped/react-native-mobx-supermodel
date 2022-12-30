@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/brightleydeveloped/react-mobx-supermodel#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   },
   "dependencies": {
     "mobx": "^5.13.0",
